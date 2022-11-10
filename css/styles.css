@@ -12,9 +12,12 @@ p {
 }
 h1,
 h2 {
-  font-family: Impact;
+  font-family: Impact, serif;
 }
 
+.established {
+  font-style: italic;
+}
 
 .menu {
   width: 80%;

@@ -1,6 +1,7 @@
 body {
 
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+  font-family: sans-serif;
 }
 
 
@@ -9,6 +10,12 @@ h2,
 p {
   text-align: center;
 }
+h1,
+h2 {
+  font-family: Impact;
+}
+
+
 .menu {
   width: 80%;
   background-color: burlywood;

@@ -16,7 +16,7 @@ p {
   margin-right: auto;
 }
 
-.flavor {
+.dessert, .flavor{
   text-align: left;
   width: 75%;
 }

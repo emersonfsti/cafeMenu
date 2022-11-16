@@ -21,9 +21,10 @@ p {
   text-align: center;
 }
 
-.bottom-line{
+.bottom-line {
   margin-top: 25px;
 }
+
 h1,
 h2 {
   font-family: Impact, serif;
@@ -65,12 +66,17 @@ hr {
   margin-bottom: 5px;
   font-size: 18px;
 }
+
 /* FOOTER */
-footer{
-font-size: 14px;
+footer {
+  font-size: 14px;
 }
 
-a{
+.address {
+  margin-bottom: 5px;
+}
+
+a {
   color: black;
 }
 
